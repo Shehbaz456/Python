@@ -3,7 +3,7 @@ from pickle import FALSE
 
 
 a= [1,2,3,4,55,44]
-# we can chande the value of list 
+# we can change the value of list 
 a[0] = 98
 print(a[0])
 print(a[1])
@@ -18,10 +18,6 @@ print(c)
 # timestemp = 2:44:14
 # list of friends
 
-friends = ["harry","tom","joy","Sultan","Salhuddin","biree",400]
+friends = ["harry","tom","joy","Sultan","Salhuddin","Sultan",400]
 print(friends[0:5]) 
-
-
-
-
 
